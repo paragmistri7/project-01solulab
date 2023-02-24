@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sidebar{
+  width: 7%;
+  display: inline-block;
+  border-right: 1px solid #6B6B6B;
+}
+.sideimage{
+  height: 60px;
+margin-top: 10px;
+}
+.sidebar p {
+  font-size: 10px;
+}
+.sideimage img{
+  width: 15px;
+}
+
+.gichart{
+  width: 40px;
+  height: 50px;
+  /* padding-top: 12px; */
+  color: aliceblue;
+  background-color: #29B712;
+}
+.gichartdiv{
+  
+  height: 60px;
+  background-color: #29B712;
+}
+.section2 {
+  width:  23%;
+}
+
+.dianadiv img{
+width: 40%;
+height: 35%;
+display: block;
+margin: auto;
+border-radius: 50%;
+}
+.files{
+  margin: 20px 0;
+}
+.document{
+  background-color: #F9F9F9;
+  padding: 5px;
+  margin: 5px;
+}
+.document span{
+  padding-left: 5px;
+  font-size: 13px;
+}
+
+
+
+
+.section3{
+  width:  70%;
+}
+
+.sec3top{
+  border-bottom: 1px solid #6B6B6B;
+width: 160px;
+margin: 10px;
+}
+.sec3top p{
+ margin-bottom: 0%;
+}
+
+.section3seco{
+  background-color: #F8F8F8;
+  ;
+}
+.section3seco p {
+  font-size: 11px ;
+  margin: 5px;
+  padding: 3px 15px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.s3main{
+  background-color: #F8F8F8;
+}
+.s3first{
+  border-bottom: 2px solid  #6B6B6B;
+  ;
+}
+.s3sec{
+  background-color: white;
+}
